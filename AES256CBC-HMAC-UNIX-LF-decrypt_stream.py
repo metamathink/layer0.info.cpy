@@ -2,6 +2,7 @@
 # // expression everything from atom, express atom from nothing.
 # // no compress
 # // posix format
+# // tar - debian 12 x64
 
 import os
 import sys
