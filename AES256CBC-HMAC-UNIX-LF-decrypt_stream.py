@@ -1,5 +1,5 @@
 # decrypt_stream.py
-
+# // expression everything from atom, express atom from nothing.
 
 import os
 import sys
